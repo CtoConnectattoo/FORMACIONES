@@ -6,3 +6,6 @@ node_modules/
 .env
 .venv/
 *.log
+
+# Modelos de Whisper (pesados, se descargan en local)
+recursos/herramientas/whisper/modelos/
